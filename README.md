@@ -1,6 +1,8 @@
 # SoupBot
 A bot I made that keeps track of my pet snake's health data! Her feedings, weight, poops, sheds, etc.
 
+Her name is Soup :)
+
 ### Uses: 
 
 discord.py, datetime, pymongo, QuickChart, Repl.it + UptimeRobot to keep it online, and of course, Python :P
