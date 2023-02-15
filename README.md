@@ -22,6 +22,7 @@ Logs the date of when a poop is found! Yayyyyyy!
 
 `/show(feedings / weights / sheds / poops`
 Shows the logged data for the respective category.
+
 *Note: `/showfeedings` actually generates a piechart of her feeding data*
 - You can also use `/showall` to show all of the data categories at once
 
